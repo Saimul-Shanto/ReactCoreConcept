@@ -13,7 +13,7 @@ function App() {
 function Person(){
   return (
     <div>
-    <h1>Hello Dear!!!</h1>
+    <h1>Hello Dearrrr!!!</h1>
     <h2>Hi</h2>
     </div>
   )
