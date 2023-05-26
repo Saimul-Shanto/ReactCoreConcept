@@ -12,7 +12,10 @@ function App() {
 
 function Person(){
   return (
+    <div>
     <h1>Hello Dear!!!</h1>
+    <h2>Hi</h2>
+    </div>
   )
 }
 export default App;
